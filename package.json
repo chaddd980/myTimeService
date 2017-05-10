@@ -7,7 +7,7 @@
     "npm": "4.3.0"
   },
   "scripts": {
-    "start": procfile
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "debug": "~2.6.3",
